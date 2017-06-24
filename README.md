@@ -1,4 +1,4 @@
-#Simple React app with Redux
+# Simple React app with Redux
 Introduction to State Management With Redux with simple voting react app
 
 ## Additional Information 
