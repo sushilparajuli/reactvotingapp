@@ -1,6 +1,8 @@
 # Simple React app with Redux
 Introduction to State Management With Redux with simple voting react app
 
+## Live Demo: http://votingapp.s3-website.ap-south-1.amazonaws.com/ 
+
 ## Additional Information 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
